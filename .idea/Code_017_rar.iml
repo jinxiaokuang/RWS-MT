@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Data_Preprocessing" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Loss" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Models" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Optimizer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Utils" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Config" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="projectConfiguration" value="Nosetests" />
+    <option name="PROJECT_TEST_RUNNER" value="Nosetests" />
+  </component>
+</module>
