@@ -10,9 +10,7 @@ This is the source code for RWS-MT.
 
 ###### Build
 
-```
-env Ubuntu22.04 python3.8
-```
+`env` for `Ubuntu22.04 python3.8`
 
 ```
 pip install -r requirements.txt
