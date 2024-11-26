@@ -7,7 +7,8 @@ This is the source code for RWS-MT.
 ![1728724364424](image/README/1728724364424.png)
 
 #### Usage
-
+###### Dataset
+download from google drive here(
 ###### Build
 
 `env` for `Ubuntu22.04 python3.8`
