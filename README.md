@@ -8,7 +8,8 @@ This is the source code for RWS-MT.
 
 #### Usage
 ###### Dataset
-download from google drive here(
+
+Download dataset from Google Drive [Aneurysm](https://drive.google.com/drive/folders/1GMZr4QdJIn4W_txdkpUv1ES4Fehu8802)
 ###### Build
 
 `env` for `Ubuntu22.04 python3.8`
