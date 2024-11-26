@@ -402,7 +402,10 @@ for epoch in range(EPOCHES):
         regression_result = gamma_function_ranking((regression_result_1, regression_result_2, regression_result_2))
         # pseudo_label1 = torch.argmax(softmax_helper(ema_output1), dim=1).long()
         # outputs1_label1 = torch.argmax(softmax_helper(outputs1[BATCH_SIZE:]), dim=1).long()
+
+        # You can customize the convolutional model used here, using vgg and resnet as tests
         weight_ema = gamma_function_ranking(MyVgg_ema(combined_input_ema),MyRes_ema(combined_input_ema), MyRes_ema(combined_input_ema))
+        
         # print('weight_ema',weight_ema)
         consistency_loss1 = consistency_weight * weight_ema * consistency_dist
         # print('sum',consistency_dist)
