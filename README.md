@@ -31,4 +31,4 @@ run xLGNet_Train.py
 
 ###### example
 
-![1728724533200](image/README/1728724533200.png)
+
