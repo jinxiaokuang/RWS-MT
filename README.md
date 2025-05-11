@@ -5,7 +5,7 @@ This is the code repository of [Semi-supervised intracranial aneurysm segmentati
 
 ### Framework
 
-![framework](image/README/1728724364424.png)!
+![framework](image/README/1728724364424.png)
 
 ## Usage
 ### Dataset
