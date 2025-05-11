@@ -5,7 +5,7 @@ This is the code repository of [Semi-supervised intracranial aneurysm segmentati
 
 ### Framework
 
-![1728724364424](image/README/1728724364424.png)!
+![1728724364424](image/README/1728724364424.png =600x600)!
 
 
 ## Usage
@@ -32,6 +32,8 @@ run xLGNet_Train.py
 ## Experiment
 
 ### example
+
+![1728724533200](image/README/1728724533200.png)!
 
 ## Citation
 ```
